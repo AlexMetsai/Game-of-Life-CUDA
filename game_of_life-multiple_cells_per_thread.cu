@@ -1,5 +1,5 @@
 /* Game of Life - CUDA implementation.
- * Using one cell per CUDA thread.
+ * Using multiple cells per CUDA thread.
  *
  * Copyright (C) 2019 Alexandros I. Metsai
  * alexmetsai@gmail.com
